@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm --prefix zyvosolutions.com run build",
+  "outputDirectory": "zyvosolutions.com/dist",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}

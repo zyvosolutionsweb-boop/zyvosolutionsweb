@@ -1,0 +1,10 @@
+# Netlify SPA configuration for the Zyvo React app
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# all deep routes should render (SPA fallback)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

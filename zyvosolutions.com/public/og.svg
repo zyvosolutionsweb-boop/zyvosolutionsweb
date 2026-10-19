@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#315C46"/>
+      <stop offset="1" stop-color="#51705C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#F8F7F3"/>
+  <rect x="0" y="0" width="1200" height="630" fill="#F8F7F3"/>
+  <rect x="64" y="64" width="1072" height="502" fill="none" stroke="#E8E5DE" stroke-width="2" rx="4"/>
+  <circle cx="1020" cy="150" r="150" fill="#DCE5D9"/>
+  <g transform="translate(128, 78)">
+    <rect width="68" height="68" rx="14" fill="#315C46"/>
+    <path d="M20 18h28v9H35l13 16v9H20v-9h14.5L21 27v-9z" fill="#F8F7F3" transform="scale(0.95) translate(1, 1)"/>
+  </g>
+  <text x="220" y="132" font-family="Manrope, Inter, sans-serif" font-size="54" font-weight="800" fill="#222222">Zyvo</text>
+  <text x="130" y="360" font-family="DM Serif Display, Georgia, serif" font-size="84" fill="#222222">Your Vision. Our Code.</text>
+  <text x="130" y="440" font-family="Inter, sans-serif" font-size="28" fill="#706F6B">Web development · Digital marketing — for Sri Lanka &amp; worldwide.</text>
+  <rect x="130" y="486" width="110" height="4" rx="2" fill="url(#acc)"/>
+</svg>
