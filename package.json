@@ -1,0 +1,9 @@
+{
+  "name": "zyvo-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix zyvosolutions.com run dev",
+    "build": "npm --prefix zyvosolutions.com run build",
+    "preview": "npm --prefix zyvosolutions.com run preview"
+  }
+}
